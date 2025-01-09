@@ -58,9 +58,9 @@ blockchain, et développement logiciel pour relever les défis de demain dans de
 
 - **Français :** ** Appréciable.**
   
-- **Anglais : Moyen.**
+- **Anglais :** **Moyen.**
   
-- **Vietnamien : Basique.**
+- **Vietnamien :** **Basique.**
 
 ---
 
