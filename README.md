@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Bienvenue sur le profil GitHub de ISSA Soro Fiti  
+# 👋 Bienvenue sur le profil 
 
 🎓 Actuellement étudiant en dernière année de **Master en Informatique**, option **Système Intelligent et Multimédia**,
 je suis passionné par l'**intelligence artificielle**, entre autre le **machine learning**, le **deep learning**, le **text mining**, et les **technologies blockchain**.
