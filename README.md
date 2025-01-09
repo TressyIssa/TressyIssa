@@ -53,8 +53,10 @@ blockchain, et développement logiciel pour relever les défis de demain dans de
 
 ## 🌐 Langues  
 
-- **Français :** Appréciable.  
-- **Anglais :** Moyen.  
+- **Français :** Appréciable.
+  
+- **Anglais :** Moyen.
+  
 - **Vietnamien :** Basique.  
 
 ---
