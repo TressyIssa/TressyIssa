@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Bienvenue sur le profil 
+# 👋 Bienvenue sur mon le profil 
 
 ![design](https://github.com/user-attachments/assets/d29ec9e3-f9ae-4bfb-830e-cc71c3e2c078)
 
@@ -56,11 +56,11 @@ blockchain, et développement logiciel pour relever les défis de demain dans de
 
 ## 🌐 Langues  
 
-- **Français : Appréciable.**
+- **Français :** ** Appréciable.**
   
 - **Anglais : Moyen.**
   
-- **Vietnamien : Basique.  **
+- **Vietnamien : Basique.**
 
 ---
 
