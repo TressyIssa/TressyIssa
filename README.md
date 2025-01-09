@@ -1,4 +1,5 @@
 ## Hi there 👋
+---
 # 👋 Bienvenue sur le profil 
 
 🎓 Actuellement étudiant en dernière année de **Master en Informatique**, option **Système Intelligent et Multimédia**,
