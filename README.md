@@ -3,7 +3,8 @@
 
 🎓 Actuellement étudiant en dernière année de **Master en Informatique**, option **Système Intelligent et Multimédia**,
 je suis passionné par l'**intelligence artificielle**, entre autre le **machine learning**, le **deep learning**, le **text mining**, et les **technologies blockchain**.
-En double diplomation entre l'Université de La Rochelle (France) et l'Institut Francophone International (IFI) de l'Université Nationale du Vietnam à Hanoï, je m'engage à résoudre des problèmes complexes grâce à des solutions innovantes.  
+En double diplomation entre l'Université de La Rochelle (France) et l'Institut Francophone International (IFI) de l'Université Nationale du Vietnam à Hanoï,
+je me disponibilise à résoudre des problèmes complexes grâce à des solutions innovantes.  
 
 ---
 
