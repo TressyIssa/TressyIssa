@@ -56,11 +56,11 @@ blockchain, et développement logiciel pour relever les défis de demain dans de
 
 ## 🌐 Langues  
 
-- **Français :** ** Appréciable.**
+- **Français :** **Appréciable**
   
-- **Anglais :** **Moyen.**
+- **Anglais :** **Moyen**
   
-- **Vietnamien :** **Basique.**
+- **Vietnamien :** **Basique**
 
 ---
 
