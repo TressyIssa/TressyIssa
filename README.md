@@ -1,5 +1,4 @@
 ## Hi there 👋
-![issa](https://github.com/user-attachments/assets/2f7a0d6a-57b6-408f-9e62-fd380dd5c36a)
 
 🤖
 <!--
