@@ -1,8 +1,7 @@
 ## Hi there 👋
 # 👋 Bienvenue sur le profil 
 
-![Uploading design.PNG…]()
-
+![design](https://github.com/user-attachments/assets/d29ec9e3-f9ae-4bfb-830e-cc71c3e2c078)
 
 🎓 Actuellement étudiant en dernière année de **Master en Informatique**, option **Système Intelligent et Multimédia**,
 je suis passionné par l'**intelligence artificielle**, entre autre le **machine learning**, le **deep learning**, le **text mining**, et les **technologies blockchain**.
