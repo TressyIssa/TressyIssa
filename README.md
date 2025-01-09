@@ -1,5 +1,6 @@
 ## Hi there 👋
----
+![image](https://github.com/user-attachments/assets/cdd94032-5035-4d8b-8c41-f09dcba9ec4a)
+
 # 👋 Bienvenue sur le profil 
 
 🎓 Actuellement étudiant en dernière année de **Master en Informatique**, option **Système Intelligent et Multimédia**,
