@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Bienvenue sur mon le profil 
+# 👋 Bienvenue sur mon profil 
 
 ![design](https://github.com/user-attachments/assets/d29ec9e3-f9ae-4bfb-830e-cc71c3e2c078)
 
