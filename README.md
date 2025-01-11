@@ -29,7 +29,6 @@ je me disponibilise à résoudre des problèmes complexes grâce à des solution
 - 📫 **Me contacter :**  
   - Email : [issafiti02@gmail.com](mailto:issafiti02@gmail.com)  
   - LinkedIn : [Tressy Issa](https://www.linkedin.com/in/tressyissa-131b591b6)  
-  - GitHub : [Mon profil GitHub](https://github.com/TressyIssa)  
 
 ---
 
